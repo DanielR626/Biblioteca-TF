@@ -1,0 +1,14 @@
+ID: 123
+Título: abc
+Autor: 123
+Año de lanzamiento: 2022
+Foto: Captura de pantalla 2023-10-02 151853.png
+Estado: No disponible
+-----------------------
+ID: 87
+Título: sdfdf
+Autor: kjdnjds
+Año de lanzamiento: 9878
+Foto: Captura de pantalla 2023-05-15 233101.png
+Estado: No disponible
+-----------------------

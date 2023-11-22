@@ -1,0 +1,12 @@
+servlets\SvAgregar.class
+servlets\SvIngreso.class
+servlets\SvRegistro.class
+com\umariana\biblioteca\JAXRSConfiguration.class
+com\umariana\biblioteca\Usuarios.class
+com\umariana\biblioteca\Biblioteca.class
+com\umariana\biblioteca\resources\JavaEE8Resource.class
+servlets\SvPedir.class
+com\umariana\biblioteca\controlUsuario.class
+servlets\SvSearch.class
+servlets\SvEstadoLibro.class
+com\umariana\biblioteca\Libros.class
